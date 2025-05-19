@@ -1,3 +1,5 @@
 collections:
-  - ansible.netcommon
-  - ansible.utils
+  - name: community.general
+    version: "8.6.0"
+  - name: ansible.netcommon
+  - name: ansible.utils
